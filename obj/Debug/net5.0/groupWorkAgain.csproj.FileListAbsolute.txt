@@ -1,0 +1,16 @@
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.exe
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.deps.json
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.runtimeconfig.json
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.runtimeconfig.dev.json
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.dll
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\ref\groupWorkAgain.dll
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\bin\Debug\net5.0\groupWorkAgain.pdb
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.csproj.AssemblyReference.cache
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.AssemblyInfoInputs.cache
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.AssemblyInfo.cs
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.csproj.CoreCompileInputs.cache
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.dll
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\ref\groupWorkAgain.dll
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.pdb
+C:\Users\raykp\OneDrive\Desktop\Junior\SoftEng\source\repos\groupWorkAgain\obj\Debug\net5.0\groupWorkAgain.genruntimeconfig.cache
